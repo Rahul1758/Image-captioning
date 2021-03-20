@@ -2,7 +2,7 @@ pickleshare==0.7.5
 numpy==1.19.0
 pandas==1.0.5
 streamlit==0.74.1
-tensorflow==2.0.0
+tensorflow-cpu==2.4.1
 nltk==3.5
 matplotlib==3.3.3
 imutils==0.5.4
