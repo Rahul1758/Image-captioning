@@ -17,7 +17,7 @@ To encode the feature images Inception_V3 model was used with transfer learning 
 --------------
 The app uses Streamlit framework to create a front-end API and is deployed on Heroku.
 Streamlit is framework using which you can create aesthetic front-end Webapp without the need of HTML and CSS. You can check their website here. https://www.streamlit.io/. 
-Please feel free to try out the app by hitting this link!! https://vehicle-price-predictor-1.herokuapp.com/
+Please feel free to try out the app by hitting this link!! https://image-captioning-12.herokuapp.com/
 
 5. INSIGHTS
 --------------
