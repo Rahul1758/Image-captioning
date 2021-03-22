@@ -2,7 +2,7 @@
 
 1. DESCRIPTION
 --------------
-Image captioning is one of the most popular application of Encoder-Decoder architecture where CNN extracts and encodes the features of an image while RNN is used as Decoder.
+Image captioning is one of the most popular application of Encoder-Decoder architecture wherein CNN extracts and encodes the features of an image while RNN is used as Decoder.
 
 2. DATA
 --------------
